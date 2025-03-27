@@ -1,5 +1,8 @@
 # Experiment-5
-## AIM:Write a python program for Binary Search and inspect for failures. 
+## NAME: Dheena Darshini Karthik Dheepan
+## REGNO: 212223240030
+## AIM:
+Write a python program for Binary Search and inspect for failures. 
 
 # ALGORITHM
 Start the program.
